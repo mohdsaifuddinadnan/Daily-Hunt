@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephen Collinson",
+            "title": "Disney rocks DeSantis ahead of expected White House bid announcement - CNN",
+            "description": "“DeSantisland” was likely not the happiest place on Earth on Thursday.",
+            "url": "https://www.cnn.com/2023/05/19/politics/desantis-disney-feud/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230515212209-ron-desantis-051523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-19T11:57:00Z",
+            "content": "DeSantisland was likely not the happiest place on Earth on Thursday.\r\nAs Florida Gov. Ron DeSantis gears up for an expected jump into the 2024 presidential race next week, his powerful adversary, Dis… [+8616 chars]"
+        },
+    {
+    "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "7.7 magnitude earthquake causes small tsunami on South Pacific islands - ABC News",
+            "description": "A 7.7 magnitude earthquake caused a small tsunami to wash ashore on South Pacific islands Friday",
+            "url": "https://abcnews.go.com/Technology/wireStory/77-magnitude-earthquake-shakes-pacific-tsunami-forecast-vanuatu-99447418",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_933a02f3306f75177048a4a86835b210_12x5_992.jpg",
+            "publishedAt": "2023-05-19T11:34:49Z",
+            "content": "WELLINGTON, New Zealand -- A 7.7 magnitude earthquake caused a small tsunami to wash ashore on South Pacific islands Friday. No damage has been reported, and the threat passed in a few hours.\r\nWaves … [+1280 chars]"
+        },
+    {
+    "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ellen Francis",
+            "title": "The Smiths bassist Andy Rourke dies aged 59 after cancer battle - The Washington Post",
+            "description": "Andy Rourke, bassist for British alt-rock legends the Smiths, died after a lengthy illness with pancreatic cancer, his representatives and former bandmates said.",
+            "url": "https://www.washingtonpost.com/obituaries/2023/05/19/andy-rourke-the-smiths-death/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J75F6HSSKEWZOA353HJ5P5UCNQ.jpg&w=1440",
+            "publishedAt": "2023-05-19T11:08:56Z",
+            "content": "Andy Rourke, the bassist for British alt-rock legends the Smiths, has died at the age of 59, his representatives and former bandmates said Friday.\r\nIt is with deep sadness that we announce the passin… [+2275 chars]"
+        },
+    {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Ukraine's President Zelenskyy to travel thousands of miles to Japan to attend G-7 meeting - USA TODAY",
+            "description": "Ukraine's leader will attend a summit of the world’s most powerful democracies, a trip that marks one of the farthest distances he's traveled from Ukraine since Russia's invasion.",
+            "url": "https://www.usatoday.com/story/news/world/2023/05/19/ukraines-president-zelenskyy-to-attend-g-7-meeting-in-japan/70234712007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/19/USAT/1b876254-7ea5-43ed-a6b0-17a940ed55f5-AFP_33FJ8VV.jpeg?auto=webp&crop=6210,3493,x1,y648&format=pjpg&width=1200",
+            "publishedAt": "2023-05-19T10:33:08Z",
+            "content": "President Volodymyr Zelenskyy will attend the Group of Seven summit in Hiroshima, Japan in person on Sunday, a trip that will mark one of the farthest distances he has traveled from Ukraine since Rus… [+4363 chars]"
+        },
+    {
+    "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Ukraine’s Zelenskyy makes surprise visit to Saudi Arabia - Al Jazeera English",
+            "description": "President Volodymyr Zelenskyy arrives in the kingdom where Arab leaders are holding a regional summit.",
+            "url": "https://www.aljazeera.com/news/2023/5/19/ukraines-zelenskyy-makes-surprise-visit-to-saudi-arabia",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/2023-05-19T115702Z_105244130_RC2N11AQ9RQC_RTRMADP_3_SAUDI-ARABS-SUMMIT-1684498067.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-05-19T10:31:06Z",
+            "content": "Ukrainian President Volodymyr Zelenskyy has made a surprise trip to Saudi Arabia, where the Arab League is hosting an annual summit.\r\nWriting on Twitter on Friday, he said that he was Beginning my fi… [+2147 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ed Pilkington",
+            "title": "Fox News’s ‘vitriolic lies’ present clear threat to US democracy, says woman suing rightwing network - The Guardian",
+            "description": "Exclusive: disinformation expert Nina Jankowicz, who is suing over campaign of falsehoods, says ‘if Fox isn’t brought to account, it will not stop’",
+            "url": "https://www.theguardian.com/media/2023/may/19/fox-news-lawsuit-nina-jankowicz",
+            "urlToImage": "https://i.guim.co.uk/img/media/27cbf7bba1a90233fbded6b450169920fe12b9b8/0_72_4240_2545/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8eb34d458fd980c06c799f8127a74c0c",
+            "publishedAt": "2023-05-19T10:00:00Z",
+            "content": "The woman suing Rupert Murdochs Fox News for defamation in the wake of the $787m settlement with the voting machine company Dominion has accused the media giant of waging a campaign of vitriolic lies… [+6998 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Whec.com"
+            },
+            "author": "Evan Bourtis",
+            "title": "PGA Championship day two set to tee off Friday morning at Oak Hill - News10NBC",
+            "description": "UPDATES: ROCHESTER, N.Y. — After a delay due to a layer of frost covering the ground, the PGA Championship at Oak Hill Country Club is now underway. You can see live updates to the leaderboard here. Thursday is the first day of the competition. A group made o…",
+            "url": "https://www.whec.com/local/pga-tee-times-delayed-due-to-frost/",
+            "urlToImage": "https://www.whec.com/wp-content/uploads/akta/DCAE03A2726E0DF0A1D7D3FA750E28B8-1.jpg",
+            "publishedAt": "2023-05-19T09:33:45Z",
+            "content": "ROCHESTER, N.Y. The second day of the PGA Championship is set to tee off at 7 a.m. on Friday at Oak Hill Country Club. The world’s top golfers will compete at the historic Pittsford course through Su… [+1764 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "FBI Whistleblowers LIVE | Jim Jordan's FBI Whistleblowers Testify Before U.S. Congress | FBI | LIVE - CNN-News18",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=maXpSv4dHJI",
+            "urlToImage": null,
+            "publishedAt": "2023-05-19T08:24:25Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Harry and Meghan: Agency refuses to hand over photos - BBC",
+            "description": "Backgrid says the couple demanded photos taken of them during a paparazzi pursuit through New York.",
+            "url": "https://www.bbc.com/news/world-us-canada-65642614",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13341/production/_129775687_gettyimages-1255335110.jpg",
+            "publishedAt": "2023-05-19T08:21:40Z",
+            "content": "Media caption, Watch: Harry and Meghan arrive at event before alleged car chase\r\nA photo agency that took pictures of the Duke and Duchess of Sussex during what the couple said was a dangerous car ch… [+3531 chars]"
+        },
+    {
+    "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia's Prigozhin says Bakhmut will not fall in next two days - Reuters",
+            "description": "Wagner founder Yevgeny Prigozhin said on Friday that the city of Bakhmut was unlikely to fall to his mercenary forces in the next two days as fighting raged around Ukrainian soldiers holed up in a makeshift \"fortress\" in the south of the city.",
+            "url": "https://www.reuters.com/world/europe/russias-prigozhin-says-bakhmut-will-not-fall-next-two-days-2023-05-19/",
+            "urlToImage": "https://www.reuters.com/resizer/_2BB3gICA4a-grtUnlr2UR8RsAI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKITH2YNUNLNTPH6JGXFXKFTDE.jpg",
+            "publishedAt": "2023-05-19T07:11:00Z",
+            "content": "MOSCOW, May 19 (Reuters) - Wagner founder Yevgeny Prigozhin said on Friday that the city of Bakhmut was unlikely to fall to his mercenary forces in the next two days as fighting raged around Ukrainia… [+1053 chars]"
+        },
+    {
+    "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Vishwam Sankaran",
+            "title": "Weight of a million buildings may be causing New York to sink, study warns - The Independent",
+            "description": "Increasing urbanisation will likely aggravate the problem further, scientists say",
+            "url": "https://www.independent.co.uk/news/world/americas/new-york-city-sinking-skyscrapers-b2341866.html",
+            "urlToImage": "https://static.independent.co.uk/2022/10/24/16/GettyImages-154994338.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-19T06:27:19Z",
+            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nSeveral parts of New York appear to be sinking at the rate of one to tw… [+2957 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "G-7 leaders to announce more sanctions on Russia; Zelenskyy expected to fly to Japan - CNBC",
+            "description": "A senior U.S. administration official said the government plans to introduce steps to \"economically isolate\" Russia to weaken its ability to wage war.",
+            "url": "https://www.cnbc.com/2023/05/19/g-7-to-announce-russia-sanctions-zelenskyy-expected-to-fly-to-japan.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107243783-1684471474007-gettyimages-1255655298-AFP_33FF66H.jpeg?v=1684477751&w=1920&h=1080",
+            "publishedAt": "2023-05-19T06:19:38Z",
+            "content": "The Group of Seven summit will be held in Hiroshima, Japan, from May 19-22.\r\nLeaders of the Group of Seven are expected to introduce on a set of measures to add pressure on Russia as its invasion of … [+3356 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ukrainska Pravda",
+            "title": "Russian bomber shot down by Patriot system - Yahoo News",
+            "description": "The Ukrainian military has used the Patriot air defence system to shoot down a Russian bomber. Source: Revealed in a comment to CNN by unnamed...",
+            "url": "https://news.yahoo.com/russian-bomber-shot-down-patriot-060811727.html",
+            "urlToImage": "https://media.zenfs.com/en/ukrayinska_pravda_articles_451/186695f75df0da884e7ac6f722272ed2",
+            "publishedAt": "2023-05-19T06:08:00Z",
+            "content": "The Ukrainian military has used the Patriot air defence system to shoot down a Russian bomber.\r\nSource: Revealed in a comment to CNN by unnamed representatives of the Pentagon and the US Congress, as… [+971 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Human-evolution story rewritten by fresh data and more computing power - Nature.com",
+            "description": "Humans did not emerge from a single region of Africa, suggests a powerful modelling study. Rather, our ancestors moved and intermingled for millennia.",
+            "url": "https://www.nature.com/articles/d41586-023-01664-z",
+            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-01664-z/d41586-023-01664-z_25372736.jpg",
+            "publishedAt": "2023-05-19T06:00:00Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "LeBron James costs Lakers six points on blown layups and 'horrible' fumbled dunk in five-point loss to Nuggets - CBS Sports",
+            "description": "James had an uncharacteristically hard time finishing in Game 2",
+            "url": "https://www.cbssports.com/nba/news/lebron-james-costs-lakers-six-points-on-blown-layups-and-horrible-fumbled-dunk-in-five-point-loss-to-nuggets/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/19/03224058-49de-434d-b79a-7316716b25e2/thumbnail/1200x675/8a7af21f2b04dfc40287330f9668bf5c/lebron-reacts-getty-3.png",
+            "publishedAt": "2023-05-19T05:39:25Z",
+            "content": "LeBron James made 74.3% of his shots in the restricted area during the regular season. He's been right in line with that number for most of the postseason. Even now, two decades into his career and p… [+2802 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Apple releases iOS 16.5 with a new sports tab in Apple News - TechCrunch",
+            "description": "Apple released iOS 16.5 today with a new sports tab in the Apple News app. The tab acts as a hub for scores and match schedules.",
+            "url": "https://techcrunch.com/2023/05/18/apple-releases-ios-16-5-with-a-new-sports-tab-in-apple-news/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1243025472.jpg?resize=1200,675",
+            "publishedAt": "2023-05-19T04:55:52Z",
+            "content": "Apple released iOS 16.5 Thursday to all users with a new sports tab in the Apple News app. The tab acts as a hub for scores, match schedules, and articles on your favorite sports teams.\r\nThe company … [+1137 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Mortal Kombat 1 Kameo Fighters Announced Alongside Main Roster - Nintendo Life",
+            "description": "Rollback netcode has also been confirmed",
+            "url": "https://www.nintendolife.com/news/2023/05/mortal-kombat-1-kameo-fighters-announced-alongside-main-roster",
+            "urlToImage": "https://images.nintendolife.com/d478cd0cea2c8/1280x720.jpg",
+            "publishedAt": "2023-05-19T04:15:00Z",
+            "content": "Image: NetherRealm Studios, Warner Bros.\r\nMortal Kombat 1 got announced by Warner Bros. and NetherRealm Studios yesterday, and the good news is it's launching for Nintendo Switch on 19th September 20… [+1416 chars]"
+        },
+    {
+    "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aditi Bharade",
+            "title": "Elizabeth Holmes will soon ditch turtleneck for khaki prison garb - Business Insider",
+            "description": "The disgraced Theranos founder will be expected to abide by a daily 6 a.m. wake up call, and stand at her bedside five times a day for inmate counts.",
+            "url": "https://www.businessinsider.com/elizabeth-holmes-soon-ditch-turtleneck-for-khaki-prison-garb-2023-5",
+            "urlToImage": "https://i.insider.com/6466f24163c86a0018ccdd43?width=1200&format=jpeg",
+            "publishedAt": "2023-05-19T04:12:00Z",
+            "content": "Elizabeth Holmes will soon be switching out her famous black turtleneck in favor of drab khaki prison wear when she reports to a prison in Texas at the end of the month. \r\nThe disgraced Theranos CEO … [+2111 chars]"
+        },
+    {
+    "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Simrin Singh",
+            "title": "New research hints that comb jelly may be Earth's oldest animal - CBS News",
+            "description": "Though they resemble jellyfish, comb jellies are distinctly different creatures.",
+            "url": "https://www.cbsnews.com/news/earth-first-animal-comb-jelly-ctenophore-700-million-years-ago/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/19/d382daf7-cf2a-4d53-a362-8028076e322d/thumbnail/1200x630/431170a802e9b3ddecc029b6cbc93f3c/gettyimages-549039437.jpg",
+            "publishedAt": "2023-05-19T03:13:47Z",
+            "content": "Scientists believe they may have identified the first animal to have roamed the Earth about 700 million years ago, a new study published in Nature revealed.\r\nResearchers determined that the first ani… [+2811 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Milwaukee Kia, Hyundai thefts class action lawsuit settled | FOX6 News Milwaukee - FOX6 News Milwaukee",
+            "description": "Kia and Hyundai reached a preliminary $200 million settlement in a Milwaukee class action suit over a defect that makes certain models easy to steal. https:/...",
+            "url": "https://www.youtube.com/watch?v=Yzg_YMhvJEc",
+            "urlToImage": "https://i.ytimg.com/vi/Yzg_YMhvJEc/maxresdefault.jpg",
+            "publishedAt": "2023-05-19T02:22:56Z",
+            "content": null
+        }
+    ]
+}
