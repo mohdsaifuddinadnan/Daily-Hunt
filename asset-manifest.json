@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Toofan_Express/static/css/main.fdb97475.css",
+    "main.js": "/Toofan_Express/static/js/main.0382add7.js",
+    "static/js/787.66a4299e.chunk.js": "/Toofan_Express/static/js/787.66a4299e.chunk.js",
+    "static/media/spinner.gif": "/Toofan_Express/static/media/spinner.0fe9930e3075fd77de13.gif",
+    "index.html": "/Toofan_Express/index.html",
+    "main.fdb97475.css.map": "/Toofan_Express/static/css/main.fdb97475.css.map",
+    "main.0382add7.js.map": "/Toofan_Express/static/js/main.0382add7.js.map",
+    "787.66a4299e.chunk.js.map": "/Toofan_Express/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdb97475.css",
+    "static/js/main.0382add7.js"
+  ]
+}
